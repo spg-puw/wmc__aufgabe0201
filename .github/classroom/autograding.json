@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "A01",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A01'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "A02",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A02'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "A03",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A03'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "A04",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A04'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "A05",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A05'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "A06",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A06'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "A07",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A07'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "A08",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A08'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "A09",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A09'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 4
+    },
+    {
+      "name": "A10",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A10'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "A11",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A11'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "A12",
+      "setup": "npm install",
+      "run": "npm test -- -t 'A12'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    }
+  ]
+}
