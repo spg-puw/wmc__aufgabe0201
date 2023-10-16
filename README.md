@@ -1,5 +1,7 @@
 # Aufgabe Basics
 
+Aufgabe by [PUW](https://github.com/spg-puw/).
+
 ## Aufgabe
 
 Bearbeite die TODOs in der Datei *aufgabe1.mjs*
